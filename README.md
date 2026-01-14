@@ -12,6 +12,7 @@ Declare a variable, print its value, and update it.
 - Print the variable's value.
 - Update the valueof `myVariable` to 5.5.
 - Print the value after the update.
+- Convert the variable to an integer using casting and print the new value.
 
 ```java  
 public class Main {
